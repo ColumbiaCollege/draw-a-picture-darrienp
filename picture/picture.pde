@@ -47,3 +47,5 @@ fill(255);
 rect(785,125,30,30);
 //middle window
 rect(785,225,30,30);
+//third and last window 
+rect(785,325,30,30);
