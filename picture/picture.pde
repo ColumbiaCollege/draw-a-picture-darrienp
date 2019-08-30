@@ -19,5 +19,7 @@ ellipse(250,500,50,50);
 ellipse(550,500,50,50);
 //triangle for car thingy with person supposed to be in but isnt
 triangle(250,455,358,420,550,425);
+//color of the road 
+fill(150,100,0);
 //road the car is driving on
 rect(1,525,1000,500);
