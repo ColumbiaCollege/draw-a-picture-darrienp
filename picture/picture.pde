@@ -41,3 +41,5 @@ rect(750,100,100,425);
 fill(50);
 //door for the big building
 rect(790,475,20,50);
+//lets put a window
+rect(785,125,30,30);
