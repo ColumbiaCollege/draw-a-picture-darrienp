@@ -37,3 +37,5 @@ ellipse(550,500,10,10);
 fill(200);
 //gonna try and put a big building in the background
 rect(750,100,100,425);
+//door for the big building
+rect(790,475,20,50);
