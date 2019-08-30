@@ -27,3 +27,5 @@ rect(1,525,1000,500);
 fill(0,255,0);
 //grass on top of the "road"
 rect(1,525,1000,20);
+//center of the left wheel
+ellipse(250,500,10,10);
