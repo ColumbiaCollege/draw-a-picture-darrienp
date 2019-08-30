@@ -16,4 +16,4 @@ ellipse(250,500,50,50);
 //the second wheel 
 ellipse(550,500,50,50);
 //triangle for car thingy with person supposed to be in but isnt
-triangle(30,425,308,370,436,425);
+triangle(250,455,358,420,550,425);
