@@ -33,5 +33,7 @@ fill(0);
 ellipse(250,500,10,10);
 //middle of the right wheel 
 ellipse(550,500,10,10);
+//color of the big building 
+fill(200);
 //gonna try and put a big building in the background
 rect(750,100,100,425);
