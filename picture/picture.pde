@@ -23,3 +23,7 @@ triangle(250,455,358,420,550,425);
 fill(150,100,0);
 //road the car is driving on
 rect(1,525,1000,500);
+//color of grass on road
+fill(0,255,0);
+//grass on top of the "road"
+rect(1,525,1000,20);
