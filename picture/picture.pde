@@ -31,3 +31,5 @@ rect(1,525,1000,20);
 fill(0);
 //center of the left wheel
 ellipse(250,500,10,10);
+//middle of the right wheel 
+ellipse(550,500,10,10);
