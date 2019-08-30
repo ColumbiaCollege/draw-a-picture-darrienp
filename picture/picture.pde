@@ -52,4 +52,4 @@ rect(785,225,30,30);
 //third and last window 
 rect(785,325,30,30);
 //top of the building
-triangle(770,75,798,20,836,75);
+triangle(800,105,828,50,866,105);
