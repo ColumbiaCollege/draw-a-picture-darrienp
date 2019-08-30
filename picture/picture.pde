@@ -5,6 +5,8 @@ size(1000,600);
 
 //color of the background
 background(0,0,200); 
+//color of man driving car
+fill(200,100,0);
 //person driving the car
 ellipse(500,450,50,50);
 //color of the car 
